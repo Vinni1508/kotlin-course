@@ -17,7 +17,6 @@ open class Animal {
     }
 }
 
-
 class Dog : Animal() {
     override fun makeSound() {
         println("${RED}Bark${RESET}")

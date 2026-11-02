@@ -1,6 +1,5 @@
 package lessons.lesson10.homework
 
-package lesson.lesson10
 
 
 fun main() {

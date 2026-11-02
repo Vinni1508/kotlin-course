@@ -2,7 +2,6 @@ package lessons.lesson08.homework
 
 class Homework08 {
 }
-package lesson.lesson08
 
 fun transformationString(i: String) {
     var result = i
